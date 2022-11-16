@@ -5,6 +5,12 @@ import java.util.HashMap;
 public class AlticciImpl {
     HashMap<Long, Long> memoization;
 
+    /*
+    *  Param: n is the index of sequence
+    *
+    *  This method will implement the sequence, the hashmap will do the caching to speed up future calculations.
+    *
+    * */
     public AlticciImpl() {
         this.memoization = new HashMap<>();
     }
