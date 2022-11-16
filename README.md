@@ -22,7 +22,7 @@
 To deploy the project Alticci_Sequence_Backend
  in the terminal, run 
 ```bash
-  java -jar demo.jar
+  java -jar demo-0.0.1-SNAPSHOT.jar
 ```
 ## Deploy Frontend
 To deploy the project Alticci_Sequence_Frontend
